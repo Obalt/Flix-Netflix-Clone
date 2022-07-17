@@ -2,6 +2,8 @@
 
 <img width="986" alt="Screenshot 2022-07-17 at 16 35 54" src="https://user-images.githubusercontent.com/103001500/179403421-bedce989-2975-4e46-b8bb-0379bd2c4087.png">
 
+<img width="989" alt="Screenshot 2022-07-17 at 16 39 57" src="https://user-images.githubusercontent.com/103001500/179403624-de61932e-921b-4588-a03c-93ce434eb8f3.png">
+
 
 
 
